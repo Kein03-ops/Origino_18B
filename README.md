@@ -1,43 +1,65 @@
 # Origino_18B
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Joseph%20Kein&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+<img src="https://media.tenor.com/6a7Q3Hcpsn8AAAAC/itadori-yuji-jujutsu-kaisen.gif" width="900"/>
+</p>
 
-<h1 align="center">👋 Welcome to My Developer World</h1>
+<h1 align="center">⚔️ Joseph Kein ⚔️</h1>
 
 <p align="center">
-🎮 Gamer | 🎌 Anime Lover | 💻 Software Developer
+🎮 Gamer | 🎌 Anime Lover | 💻 Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Web+Developer;Anime+Inspired+Creator;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Web+Developer;Anime+Inspired+Creator;Future+Software+Engineer"/>
 </p>
 
----
 
-# 🌌 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+🌌 About Me
 
 ```yaml
 Name: Joseph Kein
-Location: Earth 🌍
 Focus: Mobile + Web Development
+Languages: HTML | CSS | Flutter | C#
 Hobbies: Gaming 🎮 | Anime 🎌 | Coding 💻
-Goal: Become a top software engineer
+Goal: Become an elite software developer
 ```
 
-I enjoy building projects that combine **technology, creativity, and fun**.
+<p align="center">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime-computer.gif" width="400"/>
+</p>
 
----
 
-# 🚀 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# ⚔️ Developer Path
+
+```bash
+class JosephKein {
+
+  Skills = ["HTML", "CSS", "Flutter", "C#"]
+
+  PowerUps = ["Anime", "Gaming", "Late Night Coding"]
+
+  Mission = "Become an elite software engineer"
+}
+```
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,flutter,cs,git,github,vscode"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+📊 GitHub Stats
 
 <p align="center">
 
@@ -49,65 +71,41 @@ I enjoy building projects that combine **technology, creativity, and fun**.
 
 ---
 
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+🎮 Gaming Zone
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://media.tenor.com/1kQnQ7K9p4gAAAAC/call-of-duty-warzone.gif" width="600"/>
 </p>
 
 ---
 
-# 🎮 Interests
+🐍 Jujutsu Energy Contributions
 
-- Anime
-- Gaming
-- Mobile Apps
-- Web Development
-- Building creative projects
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
----
 
-# 📂 Featured Projects
+⚡ Quote
 
-🚀 Coming soon…
+> "Code like a developer. Fight like a shonen protagonist."
 
-- Flutter Apps
-- Web Projects
-- Game Ideas
-- Open Source Contributions
-
----
 
 # 👀 Profile Visitors
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
-
 </p>
 
----
-
-# ⚡ Quote
-
-> “Code is like anime battles — strategy, creativity, and execution.”
-
----
 
 <p align="center">
-
 ⭐ Explore my repositories ⭐
-
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
