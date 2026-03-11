@@ -1,75 +1,113 @@
 # Origino_18B
-<h1 align="center">Hey 👋 I'm Joseph</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Joseph%20Kein&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+<h1 align="center">👋 Welcome to My Developer World</h1>
 
 <p align="center">
-Anime Fan • Gamer • Developer
+🎮 Gamer | 🎌 Anime Lover | 💻 Software Developer
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Web+Developer;Anime+Inspired+Creator;Future+Software+Engineer"/>
+</p>
 
+---
 
-🚀 About Me
+# 🌌 About Me
 
-🎮 Gamer guru  
-🎌 Anime enthusiast  
-💻 Passionate about coding and building cool projects  
+```yaml
+Name: Joseph Kein
+Location: Earth 🌍
+Focus: Mobile + Web Development
+Hobbies: Gaming 🎮 | Anime 🎌 | Coding 💻
+Goal: Become a top software engineer
+```
 
-Currently learning and building with:
+I enjoy building projects that combine **technology, creativity, and fun**.
 
-- 🌐 HTML
-- 🎨 CSS
-- 📱 Flutter
-- ⚙️ C#
+---
 
-I enjoy creating projects that combine **technology, creativity, and fun**.
-
-
-
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter,cs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,flutter,cs,git,github,vscode"/>
 
 </p>
 
+---
 
+# 📊 GitHub Stats
 
-🎮 Interests
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎮 Interests
 
 - Anime
 - Gaming
-- App Development
+- Mobile Apps
 - Web Development
-- Learning new technologies
-
-
-
-📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-
-🌌 Quote I Like
-
-> “A true developer doesn't just write code — they build worlds.”
+- Building creative projects
 
 ---
 
-⚡ Fun Fact
+# 📂 Featured Projects
 
-I combine **anime inspiration + coding creativity** to build unique projects.
+🚀 Coming soon…
+
+- Flutter Apps
+- Web Projects
+- Game Ideas
+- Open Source Contributions
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
+
+</p>
+
+---
+
+# ⚡ Quote
+
+> “Code is like anime battles — strategy, creativity, and execution.”
 
 ---
 
 <p align="center">
 
-  ⭐ Check out my repositories and projects!
+⭐ Explore my repositories ⭐
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
